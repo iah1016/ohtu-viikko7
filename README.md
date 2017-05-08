@@ -5,4 +5,4 @@
 - [x] lunttilappu
 - [x] referaatti
 - [x] kurssipalaute
-- [ ] bonustehtävä 1: toinen artikkelireferaatti
+- [x] bonustehtävä 1: toinen artikkelireferaatti
